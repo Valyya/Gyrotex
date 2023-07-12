@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: gyrotex.zt.ua
+Sitemap: https://gyrotex.zt.ua/sitemap.xml
